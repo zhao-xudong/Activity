@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestBothWayConveyData</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_another">AnotherActivity</string>
+    <string name="title_activity_activity_one">ActivityOne</string>
+    <string name="title_activity_activity_two">ActivityTwo</string>
+</resources>
